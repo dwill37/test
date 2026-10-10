@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1200" viewBox="0 0 1600 1200">
+  <rect width="1600" height="1200" fill="#f2f2f2"/>
+  <path d="M0 864.0 C 288.0 768.0, 512.0 960.0, 800.0 864.0 S 1312.0 768.0, 1600 864.0 V 1200 H 0 Z" fill="#ebebeb"/>
+  <path d="M0 983.9999999999999 C 288.0 900.0, 512.0 1068.0, 800.0 983.9999999999999 S 1312.0 900.0, 1600 983.9999999999999 V 1200 H 0 Z" fill="#dddddd"/>
+  <text x="800.0" y="564.0" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="53" font-weight="600" fill="#6a6a6a">Gallery photo 1</text>
+  <text x="800.0" y="640.8" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="36" fill="#6a6a6a">Wide shot of Kuta Beach with surfers</text>
+  <text x="800.0" y="700.8" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="29" fill="#929292">Replace images/gallery-1.svg (1600x1200)</text>
+</svg>

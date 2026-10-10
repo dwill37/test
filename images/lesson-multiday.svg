@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f2f2f2"/>
+  <path d="M0 648.0 C 216.0 576.0, 384.0 720.0, 600.0 648.0 S 983.9999999999999 576.0, 1200 648.0 V 900 H 0 Z" fill="#ebebeb"/>
+  <path d="M0 738.0 C 216.0 675.0, 384.0 801.0, 600.0 738.0 S 983.9999999999999 675.0, 1200 738.0 V 900 H 0 Z" fill="#dddddd"/>
+  <text x="600.0" y="423.0" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="40" font-weight="600" fill="#6a6a6a">Multi-day package photo</text>
+  <text x="600.0" y="480.6" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="27" fill="#6a6a6a">A student standing up after a few days</text>
+  <text x="600.0" y="525.6" text-anchor="middle" font-family="Inter, -apple-system, system-ui, sans-serif" font-size="22" fill="#929292">Replace images/lesson-multiday.svg (1200x900)</text>
+</svg>
